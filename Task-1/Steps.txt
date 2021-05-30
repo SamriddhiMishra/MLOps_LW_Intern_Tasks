@@ -1,0 +1,29 @@
+LW MLOps Internship
+Task-1 
+
+Step1:- Running the "simple_linear_regression.py" to train and save the model
+$python3 simple_linear_regression.py
+
+Step2:- Pulling the centos image
+$docker pull centos:7
+
+Step3:- Launching the container, with name "myos"
+$docker run -it --name myos centos:7
+
+Step4:- Copying and saving model- "reg.pk1" and prog- "prog.py" inside container 
+$docker cp reg.pk1 myos:/
+$docker cp prog.py myos:/
+
+Step5:- Start the "myos" container and get inside it by attaching its terminal
+$docker start myos
+$docker attach myos
+
+### Inside the container ###
+Step6:- Installing Python3 interpreter
+$yum install python3 -y
+
+Step7:- Install required library (It auto installs joblib module)
+$pip3 install scikit-learn
+
+Step8:- Running the program
+$python3 prog.py
