@@ -1,6 +1,6 @@
-Task 01 👨🏻‍💻
+# Task 01 👨🏻‍💻
 
-Task Description 📄
+# Task Description 📄
 
 👉 Pull the Docker container image of CentOS image from DockerHub and create a new container
 👉 Install the Python software on the top of docker container
@@ -8,11 +8,4 @@ Task Description 📄
 👉 Create a blog/article/video step by step you have done in completing this task. 
 👉 Submit the link of blog/article or video 
 
-⚠️ Note: This is a compulsory task. 
-
-⏱️ Deadline: 27 May 2021, 11:59 pm
-
-📥 Submission Link:  http://bit.ly/summer-task-1
-
-Thanks and Regards
-Team LW ✨
+Link to LinkedIn post:- https://www.linkedin.com/posts/samriddhi-mishra_vimaldaga-righteducation-educationredefine-activity-6804856767734915072-TEJu
