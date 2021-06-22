@@ -17,7 +17,8 @@
   👉docker rm -f
   
   👉docker exec
-
+  
+Link to Post:- https://www.linkedin.com/posts/samriddhi-mishra_worldrecordholder-training-internship-activity-6813147721831067648-7ahu
  
 ## ⚙️ Task 7.2 -
 
