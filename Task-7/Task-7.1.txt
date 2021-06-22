@@ -1,0 +1,27 @@
+Task 07 👨🏻‍💻
+Javascript Integration with Docker
+__________________________________________
+
+Step 1:- Install httpd
+# yum install httpd -y
+
+Step 2:- Start httpd service
+# systemctl start httpd
+
+Step 3:- Disabling SELinux
+# setenforce 0
+
+Step 4:- Give apache user sudo powers
+# vi /etc/sudoers
+apache ALL=(ALL) NOPASSWD: ALL
+
+Step 5:- Copy html and python cgi program to document root and cgi-bin folder
+# cp linux.html /var/www/html/
+# cp linux.py /var/www/cgi-bin/
+
+Step 6:- Make python cgi program executable
+# chmod +x /var/www/cgi-bin/linux.py
+
+Step 7:- Start docker services
+# systemctl start docker
+# systemctl status docker
