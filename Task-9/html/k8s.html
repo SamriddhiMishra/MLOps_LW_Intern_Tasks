@@ -1,0 +1,33 @@
+<html>
+<head>
+<script src='main.js'></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<link rel='stylesheet' type='text/css' href='k8s.css'>
+</head>
+
+<body>
+
+<div class="container">
+
+<div>
+<center>
+
+
+<img src="k8s.gif" width="250" height="200">
+<br>
+<h1>Run Kubernetes Commands</h1>
+<input type= "text" id="command" onkeyup="task()" placeholder= "Enter command...">
+<br><br>
+<button id="submit" onclick="run()">Execute</button>
+<br>
+
+<div id="output">
+</div>
+
+</center>
+</div>
+
+</div>
+
+</body>
+</html>
