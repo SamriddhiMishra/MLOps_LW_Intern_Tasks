@@ -29,4 +29,4 @@ Feature necessary -
 
 📌 This app will help the user to run all the Kubernetes commands:
 
-Link to the post:- 
+Link to the post:- https://www.linkedin.com/posts/samriddhi-mishra_worldrecordholder-training-internship-activity-6818077969408389120-MQ28
