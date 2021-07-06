@@ -1,21 +1,23 @@
-Task 08 👨🏻💻
+# Task 08 👨🏻💻
 
-Team Task
-
+## Team Task
 
 Object Recognition using CNN model
 
-Task Description 📄
+## Task Description 📄
 
 📌 In this task :
 👉Create a model that will detect a car in a live stream or video and recognize characters on number plate of the car .
+
 👉Secondly , it will use the characters and fetch the owners information using RTO API’s .
+
 👉Create a Web portal where all this information will be displayed (using html,css,and js)
+
 📌 Note : You may create your own detection model .
 
-- Extract the data folder for training dataset and 'licence-plate.pk' for pre-trained model 
+### Extract the data folder for training dataset and 'licence-plate.pk' for pre-trained model 
 
-Approach:- 
+## Approach:- 
 
 1) Taking in the images (series of images) in live stream
 
@@ -51,3 +53,5 @@ Approach:-
 6) Using the API for RTO lookup and finding all details about vehicle using the plate number.
 
 7) Created and hosted a web app that takes Plate Number of vehicle as input and gives out the details. 
+
+Link to Post:- 
