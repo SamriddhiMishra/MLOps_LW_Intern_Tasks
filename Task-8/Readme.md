@@ -55,4 +55,4 @@ Object Recognition using CNN model
 
 7) Created and hosted a web app that takes Plate Number of vehicle as input and gives out the details. 
 
-Link to Post:- 
+Link to Post:- https://www.linkedin.com/posts/samriddhi-mishra_worldrecordholder-training-internship-activity-6818418954038460416-q7ym
